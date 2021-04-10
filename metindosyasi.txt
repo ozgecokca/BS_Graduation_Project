@@ -1,0 +1,1 @@
+Kriptografi ya da 'sifreleme' okunabilir durumdaki bir verinin icerdigi bilginin istenmeyen taraflarca anlasilamayacak bir hale donusturulmesinde kullanilan yontemlerin tamamidir.
